@@ -1,0 +1,41 @@
+* OUTPUT *
+
+1)
+Login: icrane
+Password: qwerty123
+
+Login successful
+Welcome Ichabod Crane
+
+Process finished with exit code 0
+
+
+2)
+C:\Users\15145\.jdks\openjdk-17\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.2\lib\idea_rt.jar=27928:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\15145\IdeaProjects\Assignment10_2110\out\production\Assignment10_2110 com.company.Exercise2
+Login: epokemon
+Password: pass123
+
+Either the username or password is incorrect. You have 2 more attempts.
+Login: epokemon
+Password: password123
+
+Login successful
+Welcome Emboar Pokemon
+
+Process finished with exit code 0
+
+
+
+3)
+C:\Users\15145\.jdks\openjdk-17\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.2\lib\idea_rt.jar=27931:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\15145\IdeaProjects\Assignment10_2110\out\production\Assignment10_2110 com.company.Exercise2
+Login: bones
+Password: pass456!
+
+Either the username or password is incorrect. You have 2 more attempts.
+Login: bbones
+Password: pass456!
+
+Login successful
+Welcome Brom Bones
+
+Process finished with exit code 0
